@@ -8,3 +8,4 @@ The objective of this exercise is to analyse Windows Event Logs to identify indi
 The investigation focuses on identifying how the compromise occurred, how the attacker maintained access, and which systems were impacted, using Splunk as the primary tool for log analysis and correlation.
 
 ## Lesson
+fhfhf
