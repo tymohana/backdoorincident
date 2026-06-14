@@ -1,4 +1,4 @@
-# backdoorincident
+# backdoor-incident
 ## Description
 
 This project simulates a SOC investigation into suspicious activity detected across multiple Windows systems. Anomalous behaviour was identified in host logs, suggesting that an adversary may have gained access to internal machines and established a persistent backdoor. As part of the investigation, logs from the affected systems were collected and ingested into Splunk for centralized analysis.
