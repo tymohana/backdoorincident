@@ -16,7 +16,7 @@ Additionally, the creation of unauthorized user accounts emphasises the need for
 
 This scenario demonstrates how quickly an attacker can escalate from initial execution to full compromise, highlighting the value of proactive detection, log correlation, and timely incident response.
 
-##How to Prevent Similar Incidents in the Future
+## How to Prevent Similar Incidents in the Future
 To reduce the risk of similar attacks, organisations should strengthen monitoring, restrict high-risk execution methods, and improve endpoint security configurations. PowerShell should be tightly controlled by enabling full logging capabilities, including Script Block Logging, Module Logging, and transcription, to ensure malicious activity is visible during execution.
 
 Execution of encoded or obfuscated PowerShell commands (such as -enc) should be monitored and flagged, as these are commonly used to conceal malicious activity. Additionally, security tools such as AMSI and Defender should remain enabled and protected from tampering or bypass attempts.
